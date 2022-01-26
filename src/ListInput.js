@@ -47,7 +47,7 @@ function ListInput({
     let errorMessage = "";
     if (required && values.length === 0) {
         errorMessage = "Please enter at least one value in the list.";
-    } else if (maxItemsError) {
+    } else if (maxItemsError && max <= values.length) {
         errorMessage = maxItemsError;
     }
 
