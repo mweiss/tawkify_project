@@ -123,7 +123,7 @@ ListInput.propTypes = {
     required: PropTypes.bool,
     disabled: PropTypes.bool,
     max: PropTypes.number,
-    onChange: PropTypes.func,
+    onChange: PropTypes.func.isRequired,
     values: PropTypes.array.isRequired,
 };
 
