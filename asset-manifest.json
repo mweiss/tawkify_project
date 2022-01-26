@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tawkify_project/static/css/main.925c090b.css",
-    "main.js": "/tawkify_project/static/js/main.be7f5382.js",
+    "main.js": "/tawkify_project/static/js/main.e9f1053a.js",
     "static/js/787.e4727b3e.chunk.js": "/tawkify_project/static/js/787.e4727b3e.chunk.js",
     "static/media/roboto-all-500-normal.woff": "/tawkify_project/static/media/roboto-all-500-normal.52cb737b682eb9661ee1.woff",
     "static/media/roboto-all-700-normal.woff": "/tawkify_project/static/media/roboto-all-700-normal.ef6d1d09b20b877fee4e.woff",
@@ -37,11 +37,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/tawkify_project/static/media/roboto-greek-ext-700-normal.9674bc0ae12c2551d9d1.woff2",
     "index.html": "/tawkify_project/index.html",
     "main.925c090b.css.map": "/tawkify_project/static/css/main.925c090b.css.map",
-    "main.be7f5382.js.map": "/tawkify_project/static/js/main.be7f5382.js.map",
+    "main.e9f1053a.js.map": "/tawkify_project/static/js/main.e9f1053a.js.map",
     "787.e4727b3e.chunk.js.map": "/tawkify_project/static/js/787.e4727b3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.925c090b.css",
-    "static/js/main.be7f5382.js"
+    "static/js/main.e9f1053a.js"
   ]
 }
