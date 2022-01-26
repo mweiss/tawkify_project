@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  margin: 32px;
+  max-width: 1200px;
+  min-width: 300px;
 }
 
 .App-logo {
@@ -35,4 +38,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.exampleInput {
+  width: 100%;
+  display: inline-block;
 }
