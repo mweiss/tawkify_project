@@ -2,6 +2,8 @@
 
 This repo contains a list input view for Tawkify's takehome quiz.
 
+[Live demo](https://mweiss.github.io/tawkify_project/)
+
 Some notes:
 
 - I decided to make the component a controlled component, so I added a `values` and `onChange` function.
